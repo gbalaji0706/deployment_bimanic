@@ -1,0 +1,13 @@
+pandas
+numpy
+flask
+flask-mail
+jinja2
+keras
+keras-preprocessing
+scikit-learn
+scipy
+sklearn
+tensorflow-cpu
+xlrd==1.2.0
+openpyxl
